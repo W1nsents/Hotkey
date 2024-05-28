@@ -7,3 +7,5 @@ Hotkeys with binds for your program.
   - It is possible to hide the console
 # Main reasons for choice
 - Work of XButton1, Xbutton2, Tab and other keys that are not possible for WinForm
+- # UI
+![V1.0.0](https://i.ibb.co/qBm8zQw/image.png)
